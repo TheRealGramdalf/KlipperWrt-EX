@@ -1,4 +1,10 @@
 # KlipperWrt
+
+## Oct. 28th 2023: Status update
+
+Due to life becoming incredibly busy for the past while, I have been unable to work on KlipperWRT-EX. I hope to continue once I have a proper build system set up for KlipperWRT - which is unfortunately waiting on the Proxmox Developers to release ZFS 2.2.0-pve.
+~ Gramdalf
+
  ---------------------------------------------------------------------------------
  
  A guide to get _**Klipper**_ with _**fluidd**,_ _**Mainsail**_ or _**Duet-Web-Control**_ on OpenWrt embeded devices like the _Creality Wi-Fi Box_. Or (almost) any device that can run [OpenWRT](https://openwrt.org)
